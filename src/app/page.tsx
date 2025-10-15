@@ -29,7 +29,7 @@ export default function Home() {
             { name: "Products", id: "products" },
             { name: "Contact", id: "contact" }
           ]}
-          brandName="Local Bakery"
+          brandName="Welcome to Our bakery"
         />
       </div>
       <div id="hero" data-section="hero" className="scroll-mt-24">
