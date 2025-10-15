@@ -51,8 +51,8 @@ export default function Home() {
         <div className="mx-auto px-4 md:px-6 ">
           <SplitAbout
             bulletPoints={[
-              { title: "Artisan Quality", description: "Our breads are handmade with love and care.", icon: "Award" },
-              { title: "Local Ingredients", description: "Sourced from local farms and gardens.", icon: "Leaf" }
+              { title: "Artisan Quality", description: "Our breads are handmade with love and care.", icon: Award },
+              { title: "Local Ingredients", description: "Sourced from local farms and gardens.", icon: Leaf }
             ]}
             imageSrc={assetMap.find(a => a.id === 'aboutImage')?.url}
             className="bg-pink-100"
