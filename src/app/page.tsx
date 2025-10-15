@@ -1,6 +1,6 @@
 "use client";
 import { ThemeProvider } from "@/providers/ThemeProvider";
-import NavbarLayoutFloatingOverlay from '@/components/navbar/NavbarLayoutFloatingOverlay';
+import NavbarLayoutFloatingOverlay from '@/components/navbar/NavbarLayoutFloatingOverlay/NavbarLayoutFloatingOverlay';
 import HeroSplit from '@/components/sections/hero/HeroSplit';
 import SplitAbout from '@/components/sections/about/SplitAbout';
 import ProductCardOne from '@/components/sections/product/ProductCardOne';
